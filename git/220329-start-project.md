@@ -16,8 +16,19 @@ method clone
 - git clone
 - git add
 - git commit
-- git push
+- git push origin main
 
 method init
 - git init
+- git remote add origin https://github.com/{username}/{reponame}.git
+- touch README.md
+- git add README.md
+- git commit
+- git push -u origin main
+
+
+#Commit Convention
+
+feat, docs, conf, test, fix, refactor, ci, build, perf
+
 
