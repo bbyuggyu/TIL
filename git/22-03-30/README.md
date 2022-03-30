@@ -10,11 +10,15 @@ STUDY
 
 [HEXO 유튜브 강의 영상] (https://youtu.be/FwRKkZXSdY8)
 
-# How to start 
+hexo.io 사이트 DOC 참고
+
+
+# branch
 
 ```shell
-$ mkdir git
-$ cd git
-$ mkdir 220329---
-$ vi 220329---
+생성 $ git branch {name}
+이동 $ git checkout
+이동 $ git switch
+병합 $ git merge
+삭제 $ git branch -D
 ```
