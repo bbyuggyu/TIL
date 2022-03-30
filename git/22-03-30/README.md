@@ -12,6 +12,9 @@ STUDY
 
 hexo.io 사이트 DOC 참고
 
+# git ignore
+
+[git ignore 사이트] (https://www.toptal.com/developers/gitignore)
 
 # branch
 
@@ -28,3 +31,8 @@ hexo.io 사이트 DOC 참고
 [git flow 강의 영상] (https://youtu.be/QUKsOJsmGSs)
 
 [git flow 공식 사이트] (https://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
+
+# Team work
+
+[팀플 깃허브 강의 영상] (https://youtu.be/Fw3WHmPhOvE)
+
