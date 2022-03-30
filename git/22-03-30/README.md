@@ -22,3 +22,9 @@ hexo.io 사이트 DOC 참고
 병합 $ git merge
 삭제 $ git branch -D
 ```
+
+# git flow
+
+[git flow 강의 영상] (https://youtu.be/QUKsOJsmGSs)
+
+[git flow 공식 사이트] (https://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
