@@ -14,9 +14,14 @@ hexo.io 사이트 DOC 참고
 
 # git ignore
 
+.gitignore: 특정파일 추적을 하고 싶지 않을 때 사용
+.gitattributes: 파일단위, 디렉토리 별 다른 설정을 부여하고 싶은 경우
+
 [git ignore 사이트] (https://www.toptal.com/developers/gitignore)
 
 # branch
+
+Branch: 분기점을 생성하여 독립적으로 코드를 변경할 수 있도록 도와주는 모델
 
 ```shell
 생성 $ git branch {name}
@@ -27,6 +32,8 @@ hexo.io 사이트 DOC 참고
 ```
 
 # git flow
+
+git flow: branching models
 
 [git flow 강의 영상] (https://youtu.be/QUKsOJsmGSs)
 
