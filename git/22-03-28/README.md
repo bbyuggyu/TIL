@@ -30,17 +30,16 @@ STUDY
 
 # Recap - Vim command
 
-i - insert mode
-v - visual mode
-ESC - back to normal mode
-d - delete
+* i - insert mode
+* v - visual mode
+* ESC - back to normal mode
+* d - delete
 
 ## Command mode
 
-:q - quit
-:q! - quit discarding all changes
-:w - write
-:wq - write and quit
-:{number} - jump to {number}th line.
-K-
+* :q - quit
+* :q! - quit discarding all changes
+* :w - write
+* :wq - write and quit
+* :{number} - jump to {number}th line.
 
