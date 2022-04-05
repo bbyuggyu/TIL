@@ -109,12 +109,12 @@ UTF-16: 2바이트로 문자를 표현
 
 ## 단축키
 
-- 들여쓰기 : <Ctrl> + <Shift> + <F>
-- 단일 행 주석처리: <Ctrl> + /
-    - 주석 해제: <Ctrl> + /
-- 다중 행 주석처리: <Ctrl> + <Shift> + /
-    - 주석 해제: <Ctrl> + <Shift> + \
-- 자동완성: <Ctrl> + <space>
+- 들여쓰기 : Ctrl + Shift + F
+- 단일 행 주석처리: Ctrl + /
+    - 주석 해제: Ctrl + /
+- 다중 행 주석처리: Ctrl + Shift + /
+    - 주석 해제: Ctrl + Shift + \
+- 자동완성: Ctrl + space
 
 ## 변수
 
