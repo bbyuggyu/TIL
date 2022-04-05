@@ -87,16 +87,16 @@ HTML, CSS, JS 강의자료 (https://heropy.blog/)
 
 ## 용어 정리
 
-JDK(Java Development Kit) : 자바에서 제공되는 개발용 라이브러리. 계속 버젼이 올라가고 있음
-JRE(Java Runtime Environment) : 자바 프로그램이 실행되는 환경. 8.0까지 무료로 제공 됨
-JVM(Java Virtual Machine) : 자바 가상 머신으로 프로그램이 실행되는 환경인 JRE 가 설치되어 있어야 함
-character set: 문자를 숫자로 변환한 값의 세트
-encoding: 문자가 숫자로 변환되는 것
-decoding: 숫자에서 다시 문자로 변환되는 것
-ASKII code: 알파벳과 숫자 특수 문자등을 1바이트에 표현하는데 사용하는 문자세트
-UNICODE: 전 세계 표준으로 만든 문자 세트
-UTF-8: 1바이트에서 4바이트까지 다양하게 문자를 표현할 수 있음
-UTF-16: 2바이트로 문자를 표현
+JDK(Java Development Kit) : 자바에서 제공되는 개발용 라이브러리. 계속 버젼이 올라가고 있음  
+JRE(Java Runtime Environment) : 자바 프로그램이 실행되는 환경. 8.0까지 무료로 제공 됨  
+JVM(Java Virtual Machine) : 자바 가상 머신으로 프로그램이 실행되는 환경인 JRE 가 설치되어 있어야 함  
+character set: 문자를 숫자로 변환한 값의 세트  
+encoding: 문자가 숫자로 변환되는 것  
+decoding: 숫자에서 다시 문자로 변환되는 것  
+ASKII code: 알파벳과 숫자 특수 문자등을 1바이트에 표현하는데 사용하는 문자세트  
+UNICODE: 전 세계 표준으로 만든 문자 세트  
+UTF-8: 1바이트에서 4바이트까지 다양하게 문자를 표현할 수 있음  
+UTF-16: 2바이트로 문자를 표현  
 
 
 # java 프로그래밍 기초
